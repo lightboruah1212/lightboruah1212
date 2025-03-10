@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ...Audio Implementation
 - 💞️ I’m looking to collaborate on ...Game Production Projects
 - 📫 How to reach me ...lightboruah02@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...I make omlettes
+- 😄 Pronouns: ...He/Him
+- ⚡ Fun fact: ...I make noises
 
 <!---
 lightboruah1212/lightboruah1212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
